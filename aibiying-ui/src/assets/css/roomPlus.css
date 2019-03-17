@@ -1,0 +1,246 @@
+.roomPlus{
+    width: 100%;
+}
+.roomPlusTop{
+    width: 100%;
+}
+.roomPlusTop .plusimg{
+    width: 100%;
+    height: .7rem;
+    padding: .1rem .16rem .14rem .26rem;
+    box-sizing: border-box;
+    display: flex;
+}
+.roomPlusTop .positionimg{
+    position: relative;
+}
+.roomPlusTop .plusimgs{
+    width: 100%;
+    height: 4.2rem;
+}
+.shareimg{
+    position: absolute;
+    top: .7rem;
+    right: .24rem;
+}
+.roomPlusTop .share{
+    width: .18rem;
+    height: .18rem;
+    float: left;
+}
+.roomPlusTop .shoucang{
+    margin-left: .3rem;
+}
+.plusimg img{
+    width: .33rem;
+    height: .34rem;
+    margin-right: 6%;
+    margin-top: 2%;
+}
+.plusimg input{
+    width: 80%;
+    height: .48rem;
+    line-height: .48rem;
+    text-indent: 12%;
+    font-size: 17px;
+    font-weight: 600;
+    border: 1px solid #EBEBEB;
+    border-radius: 4px;
+    color:#484848;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1) !important;
+    background:url(/../../../../static/img/search.png) left center no-repeat;
+    background-size: 24px 25px;
+}
+.roompluscontent{
+    width: 90%;
+    box-sizing: border-box;
+    margin: 24px auto;
+}
+.roompluscontent .plustitle h2{
+    font-size: .32rem;
+    color: #484848;
+    font-weight: 600;
+}
+.roompluscontent .plustitle p{
+    font-size: .16rem;
+    color: #484848;
+}
+.roompluscontent .roomplusdesc{
+    font-size: 16px;
+    color:#484848;
+    margin-top:.46rem;
+    line-height: .28rem;
+    margin-bottom: .14rem;
+}
+.roompluscontent .fanyi{
+    font-size: 16px;
+    color: #A61D55;
+    display: block;
+    margin: 0 0 .3rem;
+}
+.roompluscontent .plusul{
+    width: 100%;
+    display: flex;
+    margin-bottom: .52rem;
+}
+.roompluscontent .plusul li{
+    margin-left: 10%;
+    text-align: left;
+    font-size: 14px;
+    color: #484848;
+    font-weight: 600;
+}
+.roompluscontent .plusul li:first-child{
+    margin-left: 0;
+}
+.canguan{
+    padding-top: .5rem;
+    border-top: 1px solid #ebebeb;
+}
+.canguan .canguantitle h2{
+    font-size: 24px;
+    color: #484848;
+    font-weight: 600;
+    margin-bottom: .32rem;
+}
+.canguan .canguancontent{
+    width: 100%;
+}
+.canguan .canguancontent img{
+    width: 32%;
+    height: .98rem;
+    margin-right: 2%;
+    border-radius: 4px;
+    float: left;
+    margin-bottom: .12rem;
+}
+.canguan .canguancontent img:nth-child(3n){
+    margin-right: 0;
+}
+.canguancontent h3{
+    font-size: 16px;
+    color: #484848;
+    font-weight: 600;
+    margin: 0rem 0 .26rem;
+}
+.canguancontent h3 span{
+    font-size: 16px;
+    color: #484848;
+    font-weight: 100;
+}
+.liulan{
+    font-size: 16px;
+    color: #A61D55;
+    display:block;
+    font-weight: 600;
+    margin-bottom: .48rem;
+}
+.roomjingxuan{
+    width: 88%;
+    margin: 0 auto .48rem;
+    background:#f2f2f2;
+    padding: .42rem .48rem .5rem .4rem;
+    box-sizing: border-box;
+}
+.roomjingxuan img{
+    width:1.22rem;
+    height: .62rem;
+    margin-bottom: .36rem;
+}
+.roomjingxuan h2{
+    font-size: 22px;
+    color: #484848;
+    font-weight: 800;
+    margin-bottom: .23rem;
+}
+.roomjingxuan p{
+    font-size: 16px;
+    line-height: .28rem;
+    color: #484848;
+    margin-bottom: .32rem;
+}
+.roomjingxuan a{
+    font-size: 16px;
+    color: #A61D55;
+    font-weight: 800;
+    display: block;
+}
+.tingche .canguantitle{
+    padding-left: 6%;
+}
+.tingche p a{
+    font-size: 16px;
+    color: #A61D55;
+    font-weight: 800;
+    display: block;
+    padding-left:6%; 
+    margin: .22rem 0 .48rem;
+}
+.tingcheul{
+    width: 100%;
+    overflow: hidden;
+    padding-left: 6%;
+    box-sizing: border-box;
+}
+.tingcheul li{
+    width: 30%;
+    float: left;
+    margin:0 2% 2% 0;
+    text-align: center;
+    box-sizing: border-box;
+    background:#f2f2f2;
+    border-radius: 6px;
+}
+.tingcheul li:nth-child(3n){
+    margin-right: 0;
+}
+.tingcheul li img{
+    width: 1.01rem;
+    height: .67rem;
+}
+.tingcheul li p{
+    font-size: 12px;
+    color: #484848;
+    margin: .3rem 0 .27rem;
+}
+.roomFooter{
+    position: fixed;
+    left: 0;
+    bottom: 0;  
+    z-index: 5; 
+    background: #fff;
+    width:100%;
+    height:.78rem;
+    line-height:.78rem;
+    border-top:1px solid #ebebeb;
+}
+.roomFooter .footleft{
+    float: left;
+    padding-left:.23rem;
+}
+.roomFooter .footright{
+    float: left;
+}
+.roomFooter .footleft h2{
+    font-size: 22px;
+    color: #484848;
+    float: left;
+}
+.roomFooter .footleft p{
+    font-size: 12px;
+    color: rgb(118, 118, 118);
+    float: left;
+}
+.roomFooter .footright input{
+    background: #A61D55;width:1.8rem;
+    height:.46rem;
+    color:#fff;
+    font-size:14px;
+    text-align: center;
+    line-height:.46rem;
+    border:none;
+    outline: none;
+    border-radius:3px;
+    display: block;
+    margin:.18rem 0 0 .8rem;
+}

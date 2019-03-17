@@ -1,0 +1,146 @@
+.collect{
+    width: 100%;
+    position: relative;
+}
+.collectbg{
+    width: 100%;
+    height: 100%;
+    background: url(/static/img/bg.jpg) no-repeat;
+    background-size: cover;
+    position: fixed;
+    left: 0;
+    top: 0;
+}
+.zhezhaobg{
+    width: 100%;
+    height: 100%;
+    background: #000;
+    opacity: .4;
+}
+.collectbody{
+    position: absolute;
+    width: 100%;
+}
+.collectcotent{
+    width: 100%;
+    z-index: 10;
+    height: 100%;
+}
+.collectcotent .zhujin{
+    margin: 1rem .5rem 0;
+    font-size: .32rem;
+    font-weight: 800;
+    color:#fff;
+    text-align: center;
+}
+.collectcotent .line{
+    width: 26%;
+    height: 2px;
+    background: #fff;
+    margin: .4rem auto;
+}
+.collectcotent .p1{
+    font-size: 17px;
+    line-height: .26rem;
+    color: #fff;
+    padding: 0 7%;
+    text-align:center;
+}
+.collectcotent input{
+    display: block;
+    width: 30%;
+    height: .53rem;
+    border: 2px solid #fff;
+    border-radius: 3px;
+    background: transparent;
+    margin: 0 auto;
+    color: #fff;
+    font-size: 19px;
+    font-weight: 800;
+    margin: .5rem auto 1.2rem;
+}
+.collectcotent img{
+    width: .34rem;
+    height: .34rem;
+    position: absolute;
+    top: 1%;
+    left: 6%;
+}
+.collectionsitem{
+    width: 94%;
+    margin: 0 auto .6rem;
+    background: #fff;
+}
+.collectionsitem .swiper-slide img{
+    width: 3.52rem;
+    height: 2.42rem;
+}
+.collectionsitem .swiper-pagination-bullet{
+    width: 10px;
+    height: 10px;
+    border-radius: 50%;
+}
+.collectiontitle{
+    width: 100%;
+    padding: .3rem .18rem .5rem;
+    box-sizing: border-box;
+    text-align: center;
+}
+.collectiontitle h1{
+    font-size: .24rem;
+    color: #484848;
+}
+.logoimg{
+    display: flex;
+    height: 1.12rem;
+    line-height: 1.12rem;
+}
+.collectiontitle .logo{
+    width: .5rem;
+    height: .5rem;
+    margin: .28rem .18rem .36rem .64rem;
+}
+.collectiontitle span{
+    font-size: .16rem;
+    color: #484848;
+    display: block;
+}
+.collectiontitle p{
+    font-size: .16rem;
+    color: #484848;
+    text-align: left;
+}
+.collectiontitle a{
+    font-size: .16rem;
+    color: #008489;
+}
+.collectiontitle .zan{
+    width: .52rem;
+    height: .52rem;
+    margin: .34rem auto .14rem;
+}
+.collectiontitle h4{
+    font-size: .16rem;
+    color: #767676;
+}
+.collectbody .box{
+    background: transparent;
+    padding-top: 0;
+}
+.collectbody .box .title h2{
+    font-size: .24rem;
+    color: #fff;
+}
+.collectbody .box .room .room1 h3{
+    color: #fff;
+}
+.collectbody .box .room .room1 .p1{
+    color: #fff;
+}
+.collectbody .box .room .room1 .p1 img{
+    margin-right: .08rem;
+}
+.collectbody .box .room input{
+    width: 0;
+    height: 0;
+}

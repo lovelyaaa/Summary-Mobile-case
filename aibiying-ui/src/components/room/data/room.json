@@ -1,0 +1,150 @@
+{
+    "room":[
+        {
+            "imgs":["/static/img/room.jpg","/static/img/room2.jpg","/static/img/room3.jpg"],
+            "title":"整套公寓.1室1床1卫",
+            "htitle":"D-Few steps to thbeach apartment",
+            "ptitle":"每晚￥319.免费取消"
+        },
+        {
+            "imgs":["/static/img/room4.jpg","/static/img/room5.jpg","/static/img/room6.jpg"],
+            "title":"酒店房间.1室1床1卫",
+            "htitle":"Traditional Thai villa + common pool",
+            "ptitle":"每晚￥319.免费取消"
+        },
+        {
+            "imgs":["/static/img/room7.jpg","/static/img/room8.jpg","/static/img/room9.jpg"],
+            "title":"整套公寓.1室1床1卫",
+            "htitle":"D-Few steps to thbeach apartment",
+            "ptitle":"每晚￥319.免费取消"
+        },
+        {
+            "imgs":["/static/img/room10.jpg","/static/img/room11.jpg","/static/img/room12.jpg"],
+            "title":"独立房间.1室1床1卫",
+            "htitle":"The Quarter Resort, steps to thbeach apartment",
+            "ptitle":"每晚￥319.免费取消"
+        },
+        {
+            "imgs":["/static/img/room7.jpg","/static/img/room8.jpg","/static/img/room9.jpg"],
+            "title":"整套公寓.1室1床1卫",
+            "htitle":"D-Few steps to thbeach apartment",
+            "ptitle":"每晚￥319.免费取消"
+        },
+        {
+            "imgs":["/static/img/room.jpg","/static/img/room2.jpg","/static/img/room3.jpg"],
+            "title":"酒店房间.1室1床1卫",
+            "htitle":"Traditional Thai villa + common pool",
+            "ptitle":"每晚￥319.免费取消"
+        }
+    ],
+    "room1":[
+        {
+            "imgs":["/static/img/room.jpg","/static/img/room2.jpg","/static/img/room3.jpg","/static/img/room.jpg","/static/img/room2.jpg","/static/img/room3.jpg"],
+            "title":"整套公寓.1室1床1卫",
+            "htitle":"D-Few steps to thbeach apartment",
+            "ptitle":"每晚￥319.免费取消"
+        },
+        {
+            "imgs":["/static/img/room4.jpg","/static/img/room5.jpg","/static/img/room6.jpg","/static/img/room4.jpg","/static/img/room5.jpg","/static/img/room6.jpg"],
+            "title":"酒店房间.1室1床1卫",
+            "htitle":"Traditional Thai villa + common pool",
+            "ptitle":"每晚￥319.免费取消"
+        },
+        {
+            "imgs":["/static/img/room7.jpg","/static/img/room8.jpg","/static/img/room9.jpg","/static/img/room4.jpg","/static/img/room5.jpg","/static/img/room6.jpg"],
+            "title":"整套公寓.1室1床1卫",
+            "htitle":"D-Few steps to thbeach apartment",
+            "ptitle":"每晚￥319.免费取消"
+        },
+        {
+            "imgs":["/static/img/room10.jpg","/static/img/room11.jpg","/static/img/room12.jpg","/static/img/room4.jpg","/static/img/room5.jpg","/static/img/room6.jpg"],
+            "title":"独立房间.1室1床1卫",
+            "htitle":"The Quarter Resort, steps to thbeach apartment",
+            "ptitle":"每晚￥319.免费取消"
+        },
+        {
+            "imgs":["/static/img/room7.jpg","/static/img/room8.jpg","/static/img/room9.jpg","/static/img/room4.jpg","/static/img/room5.jpg","/static/img/room6.jpg"],
+            "title":"整套公寓.1室1床1卫",
+            "htitle":"D-Few steps to thbeach apartment",
+            "ptitle":"每晚￥319.免费取消"
+        },
+        {
+            "imgs":["/static/img/room.jpg","/static/img/room2.jpg","/static/img/room3.jpg","/static/img/room4.jpg","/static/img/room5.jpg","/static/img/room6.jpg"],
+            "title":"酒店房间.1室1床1卫",
+            "htitle":"Traditional Thai villa + common pool",
+            "ptitle":"每晚￥319.免费取消"
+        },
+        {
+            "imgs":["/static/img/room7.jpg","/static/img/room8.jpg","/static/img/room9.jpg","/static/img/room4.jpg","/static/img/room5.jpg","/static/img/room6.jpg"],
+            "title":"整套公寓.1室1床1卫",
+            "htitle":"D-Few steps to thbeach apartment",
+            "ptitle":"每晚￥319.免费取消"
+        },
+        {
+            "imgs":["/static/img/room10.jpg","/static/img/room11.jpg","/static/img/room12.jpg","/static/img/room4.jpg","/static/img/room5.jpg","/static/img/room6.jpg"],
+            "title":"独立房间.1室1床1卫",
+            "htitle":"The Quarter Resort, steps to thbeach apartment",
+            "ptitle":"每晚￥319.免费取消"
+        },
+        {
+            "imgs":["/static/img/room7.jpg","/static/img/room8.jpg","/static/img/room9.jpg","/static/img/room4.jpg","/static/img/room5.jpg","/static/img/room6.jpg"],
+            "title":"整套公寓.1室1床1卫",
+            "htitle":"D-Few steps to thbeach apartment",
+            "ptitle":"每晚￥319.免费取消"
+        },
+        {
+            "imgs":["/static/img/room.jpg","/static/img/room2.jpg","/static/img/room3.jpg","/static/img/room4.jpg","/static/img/room5.jpg","/static/img/room6.jpg"],
+            "title":"整套公寓.1室1床1卫",
+            "htitle":"D-Few steps to thbeach apartment",
+            "ptitle":"每晚￥319.免费取消"
+        },
+        {
+            "imgs":["/static/img/room4.jpg","/static/img/room5.jpg","/static/img/room6.jpg","/static/img/room4.jpg","/static/img/room5.jpg","/static/img/room6.jpg"],
+            "title":"酒店房间.1室1床1卫",
+            "htitle":"Traditional Thai villa + common pool",
+            "ptitle":"每晚￥319.免费取消"
+        },
+        {
+            "imgs":["/static/img/room7.jpg","/static/img/room8.jpg","/static/img/room9.jpg","/static/img/room4.jpg","/static/img/room5.jpg","/static/img/room6.jpg"],
+            "title":"整套公寓.1室1床1卫",
+            "htitle":"D-Few steps to thbeach apartment",
+            "ptitle":"每晚￥319.免费取消"
+        },
+        {
+            "imgs":["/static/img/room10.jpg","/static/img/room11.jpg","/static/img/room12.jpg","/static/img/room4.jpg","/static/img/room5.jpg","/static/img/room6.jpg"],
+            "title":"独立房间.1室1床1卫",
+            "htitle":"The Quarter Resort, steps to thbeach apartment",
+            "ptitle":"每晚￥319.免费取消"
+        },
+        {
+            "imgs":["/static/img/room7.jpg","/static/img/room8.jpg","/static/img/room9.jpg","/static/img/room4.jpg","/static/img/room5.jpg","/static/img/room6.jpg"],
+            "title":"整套公寓.1室1床1卫",
+            "htitle":"D-Few steps to thbeach apartment",
+            "ptitle":"每晚￥319.免费取消"
+        },
+        {
+            "imgs":["/static/img/room.jpg","/static/img/room2.jpg","/static/img/room3.jpg","/static/img/room4.jpg","/static/img/room5.jpg","/static/img/room6.jpg"],
+            "title":"酒店房间.1室1床1卫",
+            "htitle":"Traditional Thai villa + common pool",
+            "ptitle":"每晚￥319.免费取消"
+        },
+        {
+            "imgs":["/static/img/room7.jpg","/static/img/room8.jpg","/static/img/room9.jpg","/static/img/room4.jpg","/static/img/room5.jpg","/static/img/room6.jpg"],
+            "title":"整套公寓.1室1床1卫",
+            "htitle":"D-Few steps to thbeach apartment",
+            "ptitle":"每晚￥319.免费取消"
+        },
+        {
+            "imgs":["/static/img/room10.jpg","/static/img/room11.jpg","/static/img/room12.jpg","/static/img/room4.jpg","/static/img/room5.jpg","/static/img/room6.jpg"],
+            "title":"独立房间.1室1床1卫",
+            "htitle":"The Quarter Resort, steps to thbeach apartment",
+            "ptitle":"每晚￥319.免费取消"
+        },
+        {
+            "imgs":["/static/img/room7.jpg","/static/img/room8.jpg","/static/img/room9.jpg","/static/img/room4.jpg","/static/img/room5.jpg","/static/img/room6.jpg"],
+            "title":"整套公寓.1室1床1卫",
+            "htitle":"D-Few steps to thbeach apartment",
+            "ptitle":"每晚￥319.免费取消"
+        }
+    ]
+}

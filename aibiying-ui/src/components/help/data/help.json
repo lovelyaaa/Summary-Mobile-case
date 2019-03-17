@@ -1,0 +1,70 @@
+{
+    "help1":[
+        {
+            "title":"为您推荐",
+            "htitle":"预定申请",
+            "imgs":"",
+            "ptitle":["如果我的预定申请被拒绝或过期，会发生什么情况","我可以更改待处理的预定申请吗？","如何提交预定申请？"]
+        },
+        {
+            "title":"",
+            "htitle":"付款方式",
+            "imgs":"",
+            "ptitle":["如何编辑或删除付款方式？","如何使用支付宝付款？","如何在账单收据上添加房客姓名或公司地址？"]
+        },
+        {
+            "title":"",
+            "htitle":"验证",
+            "imgs":"",
+            "ptitle":["如何验证我的手机号？","为什么我没有收到电子邮件通知？","What is Verified ID？"]
+        },
+        {
+            "title":"全部主题",
+            "htitle":"预定申请",
+            "imgs":"/static/img/xinshou1.jpg",
+            "ptitle":["如果我的预定申请被拒绝或过期，会发生什么情况","我可以更改待处理的预定申请吗？","如何提交预定申请？"]
+        },
+        {
+            "title":"",
+            "htitle":"付款方式",
+            "imgs":"/static/img/xinshou2.jpg",
+            "ptitle":["如何编辑或删除付款方式？","如何使用支付宝付款？","如何在账单收据上添加房客姓名或公司地址？"]
+        },
+        {
+            "title":"",
+            "htitle":"验证",
+            "imgs":"/static/img/xinshou3.jpg",
+            "ptitle":["如何验证我的手机号？","为什么我没有收到电子邮件通知？","What is Verified ID？"]
+        },
+        {
+            "title":"",
+            "htitle":"付款方式",
+            "imgs":"/static/img/xinshou4.jpg",
+            "ptitle":["如何编辑或删除付款方式？","如何使用支付宝付款？","如何在账单收据上添加房客姓名或公司地址？"]
+        },
+        {
+            "title":"",
+            "htitle":"验证",
+            "imgs":"/static/img/xinshou5.jpg",
+            "ptitle":["如何验证我的手机号？","为什么我没有收到电子邮件通知？","What is Verified ID？"]
+        },
+        {
+            "title":"",
+            "htitle":"验证",
+            "imgs":"/static/img/xinshou6.jpg",
+            "ptitle":["如何验证我的手机号？","为什么我没有收到电子邮件通知？","What is Verified ID？"]
+        },
+        {
+            "title":"",
+            "htitle":"付款方式",
+            "imgs":"/static/img/xinshou7.jpg",
+            "ptitle":["如何编辑或删除付款方式？","如何使用支付宝付款？","如何在账单收据上添加房客姓名或公司地址？"]
+        },
+        {
+            "title":"",
+            "htitle":"验证",
+            "imgs":"/static/img/xinshou8.jpg",
+            "ptitle":["如何验证我的手机号？","为什么我没有收到电子邮件通知？","What is Verified ID？"]
+        }
+    ]
+}

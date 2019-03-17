@@ -1,0 +1,42 @@
+.morerooms{
+    width: 100%;
+}
+.moreroom{
+    padding: 0 .24rem;
+    border: 1px solid rgb(235, 235, 235);
+}
+.moreroom h3{
+    font-size:.25rem;
+    line-height: .3rem;
+    color:#484848;
+    margin-top: .24rem;
+}
+.moreroom p{
+    font-size:.17rem;
+    line-height: .22rem;
+    color:rgb(72, 72, 72);
+    margin-bottom: .15rem;
+}
+.morerooms .roomcontent{
+    padding-bottom: .8rem;
+}
+.morerooms .roomcontent .liulan{
+    font-size:.25rem;
+    line-height: .3rem;
+    color:#484848;
+    margin-top: .24rem;
+    margin-bottom: .15rem;
+    padding-left: .24rem;
+}
+.morerooms .content .ll .swiper-pagination-bullet {
+    opacity: .5;
+    width: 8px;
+    height: 8px;
+}
+.morerooms .content .ll .swiper-pagination-bullet-active {
+    opacity: 1;
+    width: 10px;
+    height: 10px;
+    -webkit-transition: all .5s;
+    transition: all .5s;
+}
