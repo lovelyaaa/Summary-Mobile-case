@@ -1,0 +1,145 @@
+{
+  "aList": [
+    {
+      "listImg": "../../../static/img/shopping_img/alist01.jpg",
+      "shopName":"小美店长",
+      "shopDesc": "专注服务业门店招聘",
+      "shopKind": "免费"
+    },
+    {
+      "listImg": "../../../static/img/shopping_img/alist02.jpg",
+      "shopName":"智慧点餐",
+      "shopDesc": "智能点餐，无需排队，提升翻台率",
+      "shopKind": "免费"
+    },
+    {
+      "listImg": "../../../static/img/shopping_img/alist03.jpg",
+      "shopName":"内容推广",
+      "shopDesc": "一键发布，短视频，直播，文案，多样的推广内容准确投放",
+      "shopKind": "免费"
+    },
+    {
+      "listImg": "../../../static/img/shopping_img/alist04.jpg",
+      "shopName":"斗米兼职",
+      "shopDesc": "海量兼职人才，精准快捷招聘",
+      "shopKind": "免费"
+    },
+    {
+      "listImg": "../../../static/img/shopping_img/alist05.jpg",
+      "shopName":"海报设计",
+      "shopDesc": "优选模板 专业设计 顺丰送达",
+      "shopKind": "免费"
+    },
+    {
+      "listImg": "../../../static/img/shopping_img/alist06.jpg",
+      "shopName":"八戒印刷",
+      "shopDesc": "宣传品设计 印刷一站式服务",
+      "shopKind": "免费"
+    },
+    {
+      "listImg": "../../../static/img/shopping_img/alist07.jpg",
+      "shopName":"社区广告",
+      "shopDesc": "海量广告资源，精准快捷推广",
+      "shopKind": "免费"
+    },
+    {
+      "listImg": "../../../static/img/shopping_img/alist08.jpg",
+      "shopName":"闪送",
+      "shopDesc": "闪送1小时同城速递",
+      "shopKind": "免费"
+    },
+    {
+      "listImg": "../../../static/img/shopping_img/alist09.jpg",
+      "shopName":"当日急聘",
+      "shopDesc": "视频面试，当天上班",
+      "shopKind": "免费"
+    },
+    {
+      "listImg": "../../../static/img/shopping_img/alist10.jpg",
+      "shopName":"蓝犀牛拉货",
+      "shopDesc": "安全的货运平台，快捷的拉货服务",
+      "shopKind": "免费"
+    },
+    {
+      "listImg": "../../../static/img/shopping_img/alist11.jpg",
+      "shopName":"红宝充电",
+      "shopDesc": "让你的顾客手机随时有电",
+      "shopKind": "免费"
+    },
+    {
+      "listImg": "../../../static/img/shopping_img/alist12.jpg",
+      "shopName":"消费益",
+      "shopDesc": "收益率6%-百度定期安全理财产品",
+      "shopKind": "免费"
+    }
+  ],
+  "recList": [
+    {
+      "recontentImg": "../../../static/img/business_img/recList01.jpg",
+      "recontentDesc": "【活动招商】24节气系列活动之秋分招商啦！"
+    },
+    {
+      "recontentImg": "../../../static/img/business_img/recList02.jpg",
+      "recontentDesc": "糯米聚屏即将上线资源--KTV资源前导先探"
+    },
+    {
+      "recontentImg": "../../../static/img/business_img/recList03.jpg",
+      "recontentDesc": "【新推广新商机】百度糯米线下屏火热招商中！"
+    }
+  ],
+  "products": [
+    {
+      "videoToph": "产品",
+      "videoTopImg": "",
+      "proList": [
+        {
+          "proListImg": "../../../static/img/business_img/productImg.jpg",
+          "proListTopP": "直通车产品解析",
+          "ListBottom": "",
+          "ListBottomag": ""
+        },
+        {
+          "proListImg": "../../../static/img/business_img/productImg.jpg",
+          "proListTopP": "图文推广福利群来啦~",
+          "ListBottom": "",
+          "ListBottomag": ""
+        }
+      ]
+    },
+    {
+      "videoToph": "产品",
+      "videoTopImg": "",
+      "proList": [
+        {
+          "proListImg": "../../../static/img/business_img/productImg.jpg",
+          "proListTopP": "百度电商能力开放平台打造交流",
+          "ListBottom": "百度电商开放平台",
+          "ListBottomag": "(dianshang.baidu.com)是在百度"
+        },
+        {
+          "proListImg": "../../../static/img/business_img/productImg.jpg",
+          "proListTopP": "千万订单300%投资回报率--",
+          "ListBottom": "“在跟百度合作的这段时间里，我们",
+          "ListBottomag": "获得的订单金额达到了数千万，投放”"
+        }
+      ]
+    }
+  ],
+  "banner": [
+    {
+      "bannerImg": "../../../static/img/business_img/banner.jpg"
+    },
+    {
+      "bannerImg": "../../../static/img/business_img/banner.jpg"
+    },
+    {
+      "bannerImg": "../../../static/img/business_img/banner.jpg"
+    },
+    {
+      "bannerImg": "../../../static/img/business_img/banner.jpg"
+    },
+    {
+      "bannerImg": "../../../static/img/business_img/banner.jpg"
+    }
+  ]
+}

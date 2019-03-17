@@ -1,0 +1,126 @@
+body,h1,h2,h3,h4,h5,h6,p,ul,ol,dl,dd,td,input,select,option,textarea{
+  margin:0;
+  padding:0;
+}
+html{
+  font-size: 26.67vw;
+}
+html,body{
+  height: 100%;
+}
+body{
+  height: 100%;
+  display:flex;
+  flex-direction: column;
+  font-family:"微软雅黑";
+}
+ul,ol{
+  list-style:none;
+}
+a{
+  text-decoration:none;
+}
+img,span{
+  border:none;
+  display: block;
+}
+#app{
+  width: 100%;
+}
+
+/*header*/
+.title{
+  height: .5rem;
+  border-bottom: 2px solid #f0f0f0;
+
+}
+.title h3{
+  width: 1.97rem;
+  line-height: .5rem;
+  font-size: .16rem;
+  font-weight: 400;
+  text-align: right;
+  float: left;
+}
+.back{
+  width: .11rem;
+  height: .19rem;
+  float: left;
+  padding: .16rem 0 .16rem .18rem;
+}
+.back img{
+  width: .11rem;
+  height: .19rem;
+}
+/*section*/
+section{
+  flex: 1;
+  overflow-y: auto;
+}
+
+.detailTop{
+  display: flex;
+  padding: .15rem .15rem;
+  height: .73rem;
+  border-bottom: 2px solid #f0f0f0;
+}
+.detailTop img{
+  width: .72rem;
+  height: .72rem;
+}
+.info{
+  padding-left: .15rem;
+  width: 1.92rem;
+  height: .72rem;
+}
+.info p{
+  font-size: .16rem;
+  line-height: .24rem;
+}
+.info span{
+  font-size: .13rem;
+  line-height: .21rem;
+  color: #616161;
+}
+.detailTop span{
+  font-size: .11rem;
+  color: #a7a7a7;
+}
+.detailTitle{
+  padding: 0 .15rem;
+  height: .5rem;
+  font-size: .13rem;
+  color: #8b8b8b;
+  line-height: .5rem;
+}
+.full{
+  height: .08rem;
+  background: #f7f7f9;
+}
+.nav{
+  height: .42rem;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+}
+.nav a{
+  height: 100%;
+  line-height: .42rem;
+  font-size: .16rem;
+  color: #5a5a5a;
+}
+.nav a:nth-child(1){
+  color: #3e49e0;
+  background-image: url("../../../static/img/details_img/huaguo.jpg");
+  background-size: .67rem .02rem;
+  background-repeat: no-repeat;
+  background-position: 0 .4rem;
+}
+.imgs{
+  padding: 0 .15rem;
+}
+.imgs img{
+  margin-top: .19rem ;
+  width: 3.45rem;
+  height: 4.67rem;
+}

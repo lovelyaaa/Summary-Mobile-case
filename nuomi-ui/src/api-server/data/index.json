@@ -1,0 +1,66 @@
+{
+  "indexNavList":[
+    {
+      "lisImg": "../../../static/img/index_img/nav-list01.jpg",
+      "lisTxt": "营销中心"
+    },
+    {
+      "lisImg": "../../../static/img/index_img/nav-list02.jpg",
+      "lisTxt": "评价管理"
+    },
+    {
+      "lisImg": "../../../static/img/index_img/nav-list03.jpg",
+      "lisTxt": "财务管理"
+    },
+    {
+      "lisImg": "../../../static/img/index_img/nav-list04.jpg",
+      "lisTxt": "商品管理"
+    },
+    {
+      "lisImg": "../../../static/img/index_img/nav-list05.jpg",
+      "lisTxt": "熊掌号开店"
+    },
+    {
+      "lisImg": "../../../static/img/index_img/nav-list06.jpg",
+      "lisTxt": "内容推广"
+    },
+    {
+      "lisImg": "../../../static/img/index_img/nav-list07.jpg",
+      "lisTxt": "本地直通车"
+    },
+    {
+      "lisImg": "../../../static/img/index_img/nav-list08.jpg",
+      "lisTxt": "全部工具"
+    }
+  ],
+  "togetherSec":[
+    {
+      "title": "商学院",
+      "titleTitle": "店铺经营指南针",
+      "videoPic": "../../../static/img/index_img/video.jpg",
+      "secTopic": "【秒懂商课堂】第五季：商户点亮模块功能"
+    }
+  ],
+  "list": [
+    {
+        "lisp": "免费！免费！免费！新版服…",
+        "lisSp": "尊敬的百度糯米商户，新版服务商城9月11日已经正式和大家见面了，小糯希望",
+        "listimg":"../../../static/img/index_img/list01.jpg"
+    },
+    {
+        "lisp": "感恩返场大回馈！3折最后…",
+        "lisSp": "感恩返场大回馈！3折最后一周",
+        "listimg":"../../../static/img/index_img/list02.jpg"
+    },
+    {
+        "lisp": "【限时特惠】---茅台蓝标…",
+        "lisSp": "一年一度的双11离得是越来越近了，偷偷告诉你们一下，服务商城的双11活…",
+        "listimg": "../../../static/img/index_img/list03.jpg"
+    }
+  ],
+  "ftop":[
+    {
+      "ttp": "查看更多"
+    }
+  ]
+}

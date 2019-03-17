@@ -1,0 +1,102 @@
+﻿header{
+  padding: 0 .16rem;
+  height: .58rem;
+  display: flex;
+  align-items: center;
+}
+.headImg{
+  width: .1rem;
+  height: .19rem;
+  padding-right: 1.24rem;
+}
+header p{
+  font-size: .18rem;
+  color: #0d0d0d;
+}
+.full{
+  height: .2rem;
+  background: #f5f5f5;
+  border-top: 2px solid #eeeeee;
+  border-bottom: 2px solid #eeeeee;
+}
+
+
+.uid{
+  height: .58rem;
+  font-size: .16rem;
+  padding: 0 .16rem;
+  display: flex;
+  align-items: center;
+  border-bottom: 1px solid #eeeeee;
+}
+.upass{
+  height: .58rem;
+  font-size: .16rem;
+  padding: 0 .16rem;
+  display: flex;
+  align-items: center;
+  border-bottom: 1px solid #eeeeee;
+}
+.utel,.uselect{
+  height: .58rem;
+  font-size: .16rem;
+  padding: 0 .16rem;
+  display: flex;
+  align-items: center;
+  border-bottom: 1px solid #eeeeee;
+}
+.utel input,.uselect input{
+  padding-left: .5rem;
+
+}
+input{
+  text-align: left;
+  padding-left: .67rem;
+  height: .22rem;
+  flex:1;
+  border: none; /*去掉input框默认边框*/
+  outline: none; /*去掉input框选中状态下的默认蓝色边框*/
+}
+button{
+  width: .77rem;
+  height: .32rem;
+  background: #6461e1;
+  border-radius: 5px;
+  color: #fff;
+}
+/*.foot{*/
+  /*height: .3rem;*/
+  /*background: #f5f5f5;*/
+  /*font-size: .12rem;*/
+  /*color: #656565;*/
+/*}*/
+.problem{
+  width: 100%;
+  padding: 0 .16rem;
+  height: .3rem;
+  line-height: .3rem;
+  font-size: .12rem;
+  color: #757575;
+}
+footer{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding-top: .3rem;
+}
+#register{
+  width: 3.44rem;
+  height: .45rem;
+  line-height: .45rem;
+  background: #c2bcec;
+  color: #dad8f4;
+  font-size: .18rem;
+  text-align: center;
+  border: none;
+  margin: 0 auto;
+}
+#register a{
+  background: #c2bcec;
+  color: #dad8f4;
+  font-size: .18rem;
+}
