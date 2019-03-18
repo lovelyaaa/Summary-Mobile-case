@@ -1,0 +1,261 @@
+@charset "utf-8";
+/*css document*/
+body,h1,h2,h3,h4,h5,h6,p,ul,ol,dl,dd,td,input,select,option,textarea{
+	margin:0;
+	padding:0;
+}
+html{
+	font-size: 26.67vw;
+}
+html,body{
+	height: 100%;
+}
+body{
+	font-family:"微软雅黑";
+	display: -webkit-flex;
+	-webkit-flex-direction:column;
+}
+ul,ol{
+	list-style:none;
+}
+a{
+	text-decoration:none;
+}
+img{
+	border:none;
+	display: block;
+}
+
+/*header*/
+header{
+	width: 100%;
+}
+.header_one{
+	width: 100%;
+	height: .53rem;
+    background: #bc4030;
+	display: flex;
+}
+.header_one h1{
+	font-size: .25rem;
+	color: white;
+	padding: .1rem .17rem 0;
+}
+.last{
+	width: .25rem;
+	height:.2rem;
+	margin-top: .17rem;
+}
+.search{
+	width: 2.36rem;
+	height: .29rem;
+	background: rgba(0,0,0,.2);
+	font-size: 12px;
+	color: #e8c3c5;
+	border-radius: .15rem;
+	display: -webkit-flex;
+	justify-content: center;
+	-webkit-align-items:center;
+	margin-right: .15rem;
+	margin-top: .11rem;
+}
+.search span{
+	margin-left: .1rem;
+	margin-right: .1rem;
+}
+.search img:nth-child(1){
+	width: .16rem;
+	height: .18rem;
+}
+.search img:nth-child(3){
+	width: .16rem;
+	height: .18rem;
+}
+
+/*section*/
+section{
+	width: 100%;
+	-webkit-flex:1;
+	overflow-y: auto;
+}
+.dt{
+	height: .4rem;
+	background: white;
+	display: flex;
+	justify-content: space-around;
+	align-items: center;
+	border-bottom: 1px solid #e6e1e1;
+}
+.dt p{
+	font-size: .15rem;
+	color:#3d3d3d;
+	padding:.13rem 0 .1rem;
+}
+.dt p:nth-child(1){
+	color: #de5b4c;
+	background-image: url(../images/line.png);
+    background-size: .25rem;
+    background-repeat: no-repeat;
+    background-position: bottom center;
+}
+.dt p:hover{
+	color: #de5b4c;
+	background-image: url(../images/line.png);
+    background-size: .25rem;
+    background-repeat: no-repeat;
+    background-position: bottom center;
+}
+.tit{
+	display: -webkit-flex;
+	height: .34rem;
+	-webkit-align-items:center;
+	margin-left: .15rem;
+	border-bottom: 1px solid #e6e1e1;
+}
+.tit img{
+	width: .16rem;
+	height: .15rem;
+}
+.tit h3{
+	color: #a3a3a3;
+	font-size: .12rem;
+	font-weight: 100;
+	margin-left: .12rem;
+	margin-right: .06rem;
+}
+.more{
+	color: #5c6f89;
+	font-size: .13rem;
+	padding-right: .15rem;
+}
+
+.lis{
+	height: .8rem;
+	margin-top: .13rem;
+	margin-left: .15rem;
+	border-bottom: 1px solid #e7e7e7;
+	display: flex;
+	justify-content: space-between;
+}
+.list_left{
+	display: flex;
+}
+.list_left img{
+	width:.65rem; 
+	height:.65rem;
+}
+.left1{
+	margin-top:.1rem;
+	margin-left: .1rem;
+}
+.left1 p{
+	font-size: .1rem;
+	color: #acacac;
+	display: flex;
+	align-items: center;
+}
+.left1 p img{
+	width:.25rem; 
+	height:.13rem;
+	margin-right: .08rem;
+}
+.nit{
+	display: flex;
+}
+.nit p{
+	font-size: .15rem;
+	color: #262626;
+}
+.nit p:nth-child(2){
+	font-size: .1rem;
+	color: #6b728b;
+	border:2px solid #6b728b;
+	margin-left: .05rem;
+	margin-right: .03rem;
+}
+.nit p:nth-child(3){
+	font-size: .1rem;
+	color: #63c083;
+	border:2px solid #63c083;
+	margin-right: .03rem;
+}
+.nit p:nth-child(4){
+	font-size: .1rem;
+	color: #6592e5;
+	border:2px solid #6592e5;
+	margin-right: .03rem;
+}
+.nit p:nth-child(5){
+	font-size: .1rem;
+	color: #eaa944;
+	border:2px solid #eaa944;
+}
+.list_right{
+	display: flex;
+	align-items: center;
+}
+.list_right img{
+	width: .1rem;
+	height: .1rem;
+	margin-left: .23rem;
+	margin-right: .15rem;
+}
+.list_right p{
+	width: .53rem;
+	height: .3rem;
+	background: #f6f6f6;
+	line-height: .3rem;
+	text-align: center;
+	border-radius: .15rem;
+	font-size: .12rem;
+	color: #de5b4c;
+	margin-right: .15rem;
+}
+/* footer */
+footer{
+	width: 100%;
+	height: .49rem;
+	box-shadow: 0 -3px 5px #eeeeee;
+	display: -webkit-flex;
+	-webkit-align-items:center;
+	position: relative;
+}
+footer a{
+	-webkit-flex:1;
+	text-align: center;
+}
+footer a img{
+	display: block;
+	width: .27rem;
+	height: .23rem;
+	margin:0 auto;
+}
+footer .photo{
+	width: .4rem;
+	height: .4rem;
+	border:6px solid #ffffff;
+	box-shadow: 0 -3px 3px #e9e9e9;
+	border-radius: 50%;
+	position: absolute;
+	left: 50%;
+	margin-left: -25px;
+	top: -20px;
+	display: -webkit-flex;
+	-webkit-justify-content:center;
+	-webkit-align-items:center;
+	background: #e64b50;
+}
+footer .photo img{
+	width: .25rem;
+	height: .27rem;
+}
+footer a span{
+	color: #6b6b6b;
+	font-size: 10px;
+	display: block;
+}
+footer a .sp{
+	display: block;
+	font-size: 10px;
+	margin-top: .25rem;
+}

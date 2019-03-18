@@ -1,0 +1,200 @@
+{
+  "index": {
+    "lunbotu": [
+        "static/img/index-lun01.png",
+        "static/img/index-lun01.png",
+        "static/img/index-lun01.png"
+      ],
+    "indexSection01":[
+      {
+        "typeImg":"static/img/index-section01.png",
+        "title":"美食"
+      },
+      {
+        "typeImg":"static/img/index-section02.png",
+        "title":"电影/演出"
+      },
+      {
+        "typeImg":"static/img/index-section03.png",
+        "title":"酒店住宿"
+      },
+      {
+        "typeImg":"static/img/index-section04.png",
+        "title":"休闲娱乐"
+      },
+      {
+        "typeImg":"static/img/index-section05.png",
+        "title":"外卖"
+      },
+      {
+        "typeImg":"static/img/index-section06.png",
+        "title":"超市/生鲜"
+      },
+      {
+        "typeImg":"static/img/index-section07.png",
+        "title":"借钱/办卡"
+      },
+      {
+        "typeImg":"static/img/index-section08.png",
+        "title":"周边游"
+      },
+      {
+        "typeImg":"static/img/index-section09.png",
+        "title":"丽人/美发"
+      },
+      {
+        "typeImg":"static/img/index-section10.png",
+        "title":"学习培训"
+      },
+      {
+        "typeImg":"static/img/index-section11.png",
+        "title":"亲子/乐园"
+      },
+      {
+        "typeImg":"static/img/index-section12.png",
+        "title":"景点/门票"
+      },
+      {
+        "typeImg":"static/img/index-section13.png",
+        "title":"跑腿代购"
+      },
+      {
+        "typeImg":"static/img/index-section14.png",
+        "title":"生活服务"
+      },
+      {
+        "typeImg":"static/img/index-section15.png",
+        "title":"更多"
+      }
+    ],
+    "indexSection02": [
+      "static/img/index-section2-01.png",
+      "static/img/index-section2-02.png",
+      "static/img/index-section2-03.png",
+      "static/img/index-section2-04.png",
+      "static/img/index-section2-01.png",
+      "static/img/index-section2-02.png"
+    ],
+    "indexSection03":
+      {
+        "section03Title":"猜你喜欢",
+        "section03Box":
+        [
+          {
+          "section03Img": "static/img/index-section03-01.png",
+          "section03ShopName": "奶茶店（西安万达店）",
+          "section03ShopType": "外卖",
+          "section03Time":"八十分钟送到",
+          "section03Money":"起送价$30|配送费",
+          "section03Count":"月售1242件",
+          "section03new": "新用户立减100元"
+          },
+          {
+            "section03Img": "static/img/index-section03-02.png",
+            "section03ShopName": "胡桃里音乐馆",
+            "section03ShopType": "外卖",
+            "section03Time":"精品2人餐，包间免费",
+            "section03Money":"￥108",
+            "section03Count":"已售30件",
+            "section03new": "5.4折"
+          },
+          {
+            "section03Img": "static/img/order-section03-02.png",
+            "section03ShopName": "刘大饼香辣土肚片",
+            "section03ShopType": "八十分钟送到",
+            "section03Time":"起送价￥20|派送费￥3.5",
+            "section03Money":"起送价$30|配送费",
+            "section03Count":"月售1242件",
+            "section03new": "新用户立减100元"
+          }
+        ]
+      }
+  },
+  "find": {
+    "findLeft":
+    [
+      {
+        "findLeftImg": "static/img/find-section01.png",
+        "findLeftContent": "私密性很好，\t遇见的服务生都很有礼貌",
+        "findLeftSelfImg": "static/img/find-section10.png",
+        "findLeftName": "木守攻",
+        "findLeftIcon": "static/img/find-section11.png"
+      },
+      {
+        "findLeftImg": "static/img/find-section02.png",
+        "findLeftContent": "本人真的是太瘦了，\t签名一丝不苟，人气太旺",
+        "findLeftSelfImg": "static/img/find-section12.png",
+        "findLeftName": "lunahaha",
+        "findLeftIcon": "static/img/find-section11.png"
+      },
+      {
+        "findLeftImg": "static/img/find-section03.png",
+        "findLeftContent": "真的是好吃的不要不要的",
+        "findLeftSelfImg": "static/img/find-section13.png",
+        "findLeftName": "秋老板187",
+        "findLeftIcon": "static/img/find-section11.png"
+      },
+      {
+        "findLeftImg": "static/img/find-section02.png",
+        "findLeftContent": "本人真的是太瘦了，\t签名一丝不苟，人气太旺",
+        "findLeftSelfImg": "static/img/find-section12.png",
+        "findLeftName": "lunahaha",
+        "findLeftIcon": "static/img/find-section11.png"
+      },
+      {
+        "findLeftImg": "static/img/find-section03.png",
+        "findLeftContent": "真的是好吃的不要不要的",
+        "findLeftSelfImg": "static/img/find-section13.png",
+        "findLeftName": "秋老板187",
+        "findLeftIcon": "static/img/find-section11.png"
+      }
+    ],
+    "findRight":
+    [
+      {
+        "findLeftImg": "static/img/find-section06.png",
+        "findLeftContent": "真的是全西安第一了！，\t当之无愧！",
+        "findLeftSelfImg": "static/img/find-section15.png",
+        "findLeftName": "回不去的小明",
+        "findLeftIcon": "static/img/find-section11.png"
+      },
+      {
+        "findLeftImg": "static/img/find-section07.png",
+        "findLeftContent": "感受大草原的风情，\t感受美的诱惑",
+        "findLeftSelfImg": "static/img/find-section16.png",
+        "findLeftName": "老友记菜馆",
+        "findLeftIcon": "static/img/find-section11.png"
+      },
+      {
+        "findLeftImg": "static/img/find-section08.png",
+        "findLeftContent": "水特别棒",
+        "findLeftSelfImg": "static/img/find-section17.png",
+        "findLeftName": "sue_4519",
+        "findLeftIcon": "static/img/find-section11.png"
+      },
+      {
+        "findLeftImg": "static/img/find-section07.png",
+        "findLeftContent": "感受大草原的风情，\t感受美的诱惑",
+        "findLeftSelfImg": "static/img/find-section16.png",
+        "findLeftName": "老友记菜馆",
+        "findLeftIcon": "static/img/find-section11.png"
+      },
+      {
+        "findLeftImg": "static/img/find-section08.png",
+        "findLeftContent": "水特别棒",
+        "findLeftSelfImg": "static/img/find-section17.png",
+        "findLeftName": "sue_4519",
+        "findLeftIcon": "static/img/find-section11.png"
+      }
+    ]
+  },
+  "order": {
+
+  },
+  "myself": {
+
+  },
+  "shop": {
+
+  }
+}

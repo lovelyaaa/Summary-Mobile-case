@@ -1,0 +1,84 @@
+{
+  "guanzhu": {
+    "title": [
+      {
+        "titleImg": "/static/images/tu1.png",
+        "titleName": "沫沫",
+        "titleTime": "02-23 16:46",
+        "titleInfo": "好久不见，快给我发起约唱吧~",
+        "titlebanner": "/static/images/yue.png"
+      },
+      {
+        "titleImg": "/static/images/tu1.png",
+        "titleName": "沫沫",
+        "titleTime": "02-23 16:46",
+        "titleInfo": "好久不见，快给我发起约唱吧~",
+        "titlebanner": "/static/images/yue.png"
+      },
+      {
+        "titleImg": "/static/images/tu1.png",
+        "titleName": "沫沫",
+        "titleTime": "02-23 16:46",
+        "titleInfo": "好久不见，快给我发起约唱吧~",
+        "titlebanner": "/static/images/yue.png"
+      }
+    ]
+  },
+  "faxian": {
+    "lunbo":{
+      "bannerone": "/static/images/banner1.png",
+      "bannertwo": "/static/images/d01.png",
+      "bannerthree": "/static/images/d02.png"
+    }
+  },
+  "haoyou":{
+    "title": [
+      {
+        "titleImg": "/static/images/tu1.png",
+        "titleName": "沫沫",
+        "titleTime": "02-23 16:46",
+        "titleInfo": "我怀念的~",
+        "titlebanner": "/static/images/da1.png"
+      },
+      {
+        "titleImg": "/static/images/tu3.png",
+        "titleName": "帅",
+        "titleTime": "02-23 16:46",
+        "titleInfo": "我成为了我的好友擂主，不服来战！~",
+        "titlebanner": "/static/images/da1.png"
+      },
+      {
+        "titleImg": "/static/images/t1.png",
+        "titleName": "橙月",
+        "titleTime": "02-23 16:46",
+        "titleInfo": "我怀念的~",
+        "titlebanner": "/static/images/da1.png"
+      }
+    ]
+  },
+  "fujin":{
+    "title": [
+      {
+        "titleImg": "/static/images/tu4.png",
+        "titleName": "楽趣",
+        "titleLong": "1.2km",
+        "titleInfo": "我怀念的~",
+        "titlebanner": "/static/images/da3.png"
+      },
+      {
+        "titleImg": "/static/images/tu5.png",
+        "titleName": "一只猫",
+        "titleLong": "200m",
+        "titleInfo": "我成为了我的好友擂主，不服来战！~",
+        "titlebanner": "/static/images/da2.png"
+      },
+      {
+        "titleImg": "/static/images/tu1.png",
+        "titleName": "沫沫",
+        "titleLong": "500m",
+        "titleInfo": "我怀念的~",
+        "titlebanner": "/static/images/da2.png"
+      }
+    ]
+  }
+}
